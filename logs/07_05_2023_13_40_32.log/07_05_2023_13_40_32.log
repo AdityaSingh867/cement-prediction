@@ -1,0 +1,3 @@
+[2023-07-05 13:40:36,851] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-07-05 13:40:36,864] 224 werkzeug - INFO -  * Debugger PIN: 666-779-008
+[2023-07-05 13:40:45,130] 224 werkzeug - INFO -  * Detected change in 'd:\\hello_\\name_1\\name_1\\cement_strength\\app.py', reloading

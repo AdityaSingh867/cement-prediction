@@ -1,0 +1,7 @@
+[2023-07-04 19:09:28,017] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-07-04 19:09:28,022] 224 werkzeug - INFO -  * Debugger PIN: 666-779-008
+[2023-07-04 19:09:51,755] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 19:09:51] "GET / HTTP/1.1" 200 -
+[2023-07-04 19:09:52,005] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 19:09:52] "[33mGET /static/css/index_style.css HTTP/1.1[0m" 404 -
+[2023-07-04 19:09:52,085] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 19:09:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-04 19:10:13,972] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 19:10:13] "[33mPOST /predict HTTP/1.1[0m" 404 -
+[2023-07-04 19:13:22,554] 224 werkzeug - INFO -  * Detected change in 'd:\\hello_\\name_1\\name_1\\cement_strength\\src\\pipelines\\predict_pipeline.py', reloading

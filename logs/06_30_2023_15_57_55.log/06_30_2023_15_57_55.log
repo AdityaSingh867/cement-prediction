@@ -1,0 +1,11 @@
+[2023-06-30 15:58:00,234] 20 root - INFO - Data engestion method started
+[2023-06-30 15:58:00,246] 25 root - INFO - Data is collected
+[2023-06-30 15:58:00,280] 31 root - INFO - Database read as DataFrame form
+[2023-06-30 15:58:00,284] 35 root - INFO - train test split is completed
+[2023-06-30 15:58:00,320] 40 root - INFO - Ingestion of data in completed
+[2023-06-30 15:58:00,321] 51 root - INFO - Reading train and test data
+[2023-06-30 15:58:00,497] 54 root - INFO - Reading train and test data is completed
+[2023-06-30 15:58:00,497] 24 root - INFO - Data transformation initiated
+[2023-06-30 15:58:00,546] 23 root - INFO - Splitting dependent and independent variables from train and test data
+[2023-06-30 15:58:02,153] 43 root - INFO - model report : {'LinearRegression': 0.6246286164785904, 'Ridge': 0.6260256723250348, 'Lasso': 0.5869514333081034, 'ElasticNet': 0.520716244832276, 'RandomForestRegressor': 0.9136219873448035, 'GradientBoostingRegressor': 0.9122056120224846}
+[2023-06-30 15:58:02,155] 55 root - INFO - best model found : RandomForestRegressor , best model score 0.9136219873448035

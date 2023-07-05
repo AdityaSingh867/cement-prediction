@@ -1,0 +1,9 @@
+[2023-07-02 13:52:03,207] 20 root - INFO - Data engestion method started
+[2023-07-02 13:52:03,212] 25 root - INFO - Data is collected
+[2023-07-02 13:52:03,224] 31 root - INFO - Database read as DataFrame form
+[2023-07-02 13:52:03,227] 35 root - INFO - train test split is completed
+[2023-07-02 13:52:03,238] 40 root - INFO - Ingestion of data in completed
+[2023-07-02 13:52:03,238] 51 root - INFO - Reading train and test data
+[2023-07-02 13:52:03,264] 54 root - INFO - Reading train and test data is completed
+[2023-07-02 13:52:03,264] 24 root - INFO - Data transformation initiated
+[2023-07-02 13:52:03,267] 88 root - INFO - Exception occured in initiate_data_transformation

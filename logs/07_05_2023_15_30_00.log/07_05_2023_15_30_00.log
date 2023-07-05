@@ -1,0 +1,7 @@
+[2023-07-05 15:30:02,827] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-07-05 15:30:02,833] 224 werkzeug - INFO -  * Debugger PIN: 666-779-008
+[2023-07-05 15:30:09,989] 224 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2023 15:30:09] "GET / HTTP/1.1" 200 -
+[2023-07-05 15:30:10,255] 224 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2023 15:30:10] "[36mGET /static/css/index_style.css HTTP/1.1[0m" 304 -
+[2023-07-05 15:30:17,168] 224 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2023 15:30:17] "GET /upload HTTP/1.1" 200 -
+[2023-07-05 15:30:17,509] 224 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2023 15:30:17] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[2023-07-05 15:30:17,515] 224 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2023 15:30:17] "GET /static/css/style.css HTTP/1.1" 200 -

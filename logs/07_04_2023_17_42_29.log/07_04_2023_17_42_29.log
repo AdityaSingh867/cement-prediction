@@ -1,0 +1,7 @@
+[2023-07-04 17:42:31,594] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-07-04 17:42:31,599] 224 werkzeug - INFO -  * Debugger PIN: 666-779-008
+[2023-07-04 17:43:01,582] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:43:01] "GET / HTTP/1.1" 200 -
+[2023-07-04 17:43:01,843] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:43:01] "[33mGET /static/css/index_style.css HTTP/1.1[0m" 404 -
+[2023-07-04 17:43:01,906] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:43:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-04 17:43:22,662] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:43:22] "[33mPOST /predict HTTP/1.1[0m" 404 -
+[2023-07-04 17:46:25,905] 224 werkzeug - INFO -  * Detected change in 'D:\\hello_\\name_1\\name_1\\cement_strength\\app.py', reloading

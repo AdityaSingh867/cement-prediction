@@ -1,0 +1,24 @@
+[2023-07-04 17:37:44,429] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-07-04 17:37:44,434] 224 werkzeug - INFO -  * Debugger PIN: 666-779-008
+[2023-07-04 17:37:49,519] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:37:49] "GET / HTTP/1.1" 200 -
+[2023-07-04 17:37:49,783] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:37:49] "[33mGET /static/css/index_style.css HTTP/1.1[0m" 404 -
+[2023-07-04 17:37:49,863] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:37:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-07-04 17:38:11,434] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:38:11] "[33mPOST /predict HTTP/1.1[0m" 404 -
+[2023-07-04 17:40:08,036] 20 root - INFO - Data engestion method started
+[2023-07-04 17:40:08,058] 25 root - INFO - Data is collected
+[2023-07-04 17:40:08,070] 31 root - INFO - Database read as DataFrame form
+[2023-07-04 17:40:08,078] 35 root - INFO - train test split is completed
+[2023-07-04 17:40:08,091] 40 root - INFO - Ingestion of data in completed
+[2023-07-04 17:40:08,091] 45 root - INFO - Reading train and test data
+[2023-07-04 17:40:08,119] 48 root - INFO - Reading train and test data is completed
+[2023-07-04 17:40:08,120] 24 root - INFO - Data transformation initiated
+[2023-07-04 17:40:08,135] 23 root - INFO - Splitting dependent and independent variables from train and test data
+[2023-07-04 17:40:08,617] 43 root - INFO - model report : {'LinearRegression': 0.6246286164785904, 'Ridge': 0.6260256723250348, 'Lasso': 0.5869514333081034, 'ElasticNet': 0.520716244832276, 'RandomForestRegressor': 0.9166089905579977, 'GradientBoostingRegressor': 0.9131087252259756}
+[2023-07-04 17:40:08,619] 55 root - INFO - best model found : RandomForestRegressor , best model score 0.9166089905579977
+[2023-07-04 17:40:08,646] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:08] "GET /train HTTP/1.1" 200 -
+[2023-07-04 17:40:28,952] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:28] "[35m[1mGET /upload HTTP/1.1[0m" 500 -
+[2023-07-04 17:40:29,308] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:29] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-07-04 17:40:29,313] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:29] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-07-04 17:40:29,566] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:29] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-07-04 17:40:29,668] 224 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 17:40:29] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-07-04 17:42:18,050] 224 werkzeug - INFO -  * Detected change in 'd:\\hello_\\name_1\\name_1\\cement_strength\\app.py', reloading
